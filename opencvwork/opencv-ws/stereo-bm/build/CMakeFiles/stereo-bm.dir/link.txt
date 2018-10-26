@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/stereo-bm.dir/src/stereo-bm.cpp.o  -o ../bin/stereo-bm -rdynamic 

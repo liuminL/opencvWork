@@ -1,0 +1,3 @@
+/opt/opencvwork/opencv-ws/stereo-bm/build/CMakeFiles/rebuild_cache.dir
+/opt/opencvwork/opencv-ws/stereo-bm/build/CMakeFiles/edit_cache.dir
+/opt/opencvwork/opencv-ws/stereo-bm/build/CMakeFiles/stereo-bm.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/stereo-gc.dir/src/stereo-GC.cpp.o  -o ../bin/stereo-gc -rdynamic 
